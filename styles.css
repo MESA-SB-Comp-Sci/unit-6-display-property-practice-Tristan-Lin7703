@@ -50,5 +50,23 @@ div {
 
 
 
+.b {
+    display: block;
+}
 
+.i {
+    display: inline;
+    width: 10000px ;
+    height: 100px;
+    background-color: pink;
+}
 
+img {
+   display:inline-block;    
+   width: 100px;
+   height: 100px;
+   margin: 50px;
+   padding: 20px;
+   border: 2px solid red;
+   background-color: aqua;
+}
